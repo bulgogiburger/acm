@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # This will be large
 ## This not so large
 
